@@ -1,0 +1,22 @@
+.canvas{
+    width:100%;
+    min-height:600px;
+}
+#tree{
+    height:1200px;
+}
+
+.axis .tick line{
+    stroke:rgb(150,150,150);
+}
+
+.axis .tick line{
+    stroke-width:.5px;
+}
+
+.node{
+    fill:rgb(220,220,220);
+}
+.node text{
+    fill:rgb(80,80,80);
+}
